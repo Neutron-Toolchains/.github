@@ -4,7 +4,7 @@ The Neutron Toolchains Organization
 ===================================
 A small team of developers aiming to creating well-optimized toolchains and other programming tools that meet your need.
 
-Projects that we work on:
+### Some projects we are working on
 
 - [Neutron-Clang 16](https://gitlab.com/dakkshesh07/neutron-clang)
 - Neutron-GCC (WIP)
