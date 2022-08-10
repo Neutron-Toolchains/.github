@@ -7,6 +7,8 @@ A small team of developers aiming to creating well-optimized toolchains and othe
 ### Some projects we are working on
 
 - [Neutron-Clang 16](https://gitlab.com/dakkshesh07/neutron-clang)
+- [Neutron-Gzip](https://github.com/Neutron-Toolchains/neutron-gzip)
+- [Neutron-Coreutils](https://github.com/Neutron-Toolchains/neutron-coreutils)
 - Neutron-GCC (WIP)
 - Neutron-Binutils (WIP)
 - Neutron (glibc, binutils, gcc, llvm, clang, etc) packages for Debian and Arch based distros (WIP)
