@@ -1,12 +1,10 @@
-![Neutron-Toolchains](https://github.com/Neutron-Toolchains/.github/blob/main/logo.jpg)
-
 The Neutron Toolchains Organization
 ===================================
 A small team of developers aiming to creating well-optimized toolchains and other programming tools that meet your need.
 
 ### Some projects we are working on
 
-- [Neutron-Clang 16](https://gitlab.com/dakkshesh07/neutron-clang)
+- [Neutron-Clang](https://gitlab.com/dakkshesh07/neutron-clang)
 - [Neutron-Gzip](https://github.com/Neutron-Toolchains/neutron-gzip)
 - [Neutron-Coreutils](https://github.com/Neutron-Toolchains/neutron-coreutils)
 - Neutron-GCC (WIP)
